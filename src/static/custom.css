@@ -1,0 +1,7 @@
+#main-header .bg-light{
+    background-color: #fff!important;
+}
+
+#main-header .collapse.navbar-collapse{
+    margin-left: 80%;
+}

@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# common
+.DS_Store
+.idea
+.project
+.strong-pm
